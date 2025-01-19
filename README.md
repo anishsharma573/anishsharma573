@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Chat app**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **SQl**
 
-- 💬 Ask me about **MERN,Firebase**
+- 💬 Ask me about **MERN,Firebase, Nextjs**
 
 - 📫 How to reach me **anishsharmab@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:anishsharmaf@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anishsharmab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishsharmab" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma_.anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_.anish" height="30" width="40" /></a>
