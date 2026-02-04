@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chat app**
+- 🔭 I’m currently working With **Aimify**
 
-- 🌱 I’m currently learning **SQl**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **MERN,Firebase, Nextjs**
 
